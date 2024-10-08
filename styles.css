@@ -123,19 +123,19 @@ button:focus {
 }
 
 .button1 {
-  background-color: rgba(245, 80, 80, 0.7);
+  background-color: red;
 }
 
 .button2 {
-  background-color: rgba(60, 184, 120, 0.7);
+  background-color: blue;
 }
 
 .button3 {
-  background-color: rgba(100, 181, 246, 0.7);
+  background-color: green;
 }
 
 .button4 {
-  background-color: rgba(255, 171, 64, 0.7);
+  background-color: black;
 }
 
 button.active {
