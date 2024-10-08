@@ -29,7 +29,7 @@ Styles for image background on mobile view */
   left: 0;
   width: 100%;
   height: 100%;  /* We can use image link or locally from Assets for background */
-  background-image: url("https://w0.peakpx.com/wallpaper/892/708/HD-wallpaper-japan-night-street-almoe-anime-japan-street-town.jpg");
+  background-image: url("https://github.com/abrahamdw882/ABBOTWEB.github.io/blob/main/Guru.jpg");
   background-size: cover;
   background-position: center;
   z-index: -1;
