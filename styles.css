@@ -29,7 +29,7 @@ Styles for image background on mobile view */
   left: 0;
   width: 100%;
   height: 100%;  /* We can use image link or locally from Assets for background */
-  background-image: url("https://github.com/abrahamdw882/ABBOTWEB.github.io/blob/main/Guru.jpg");
+  background-image: url("https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif");
   background-size: cover;
   background-position: center;
   z-index: -1;
